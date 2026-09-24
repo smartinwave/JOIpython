@@ -1,1 +1,15 @@
-print("Hello World")
+print("Hello, World")
+print("я, изучаю, python")
+print('я', 'learning','python')
+print('this, is, a, test')
+print("I'm", 'the', "bad", 'guy')
+print("привет")
+print('12', '34')
+print('Я', 'также', 'люблю', 'математику', '!')
+print("Я также люблю математику !")
+print('Я' 'также' 'люблю' 'математику' '!')
+print("Я" "также" "люблю" "математику" "!")
+city = 'sbp'
+print(city, '- мой город!')
+name = 'martin'
+print('меня зовут', name, '.', city, '- мой город!')
