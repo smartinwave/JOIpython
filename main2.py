@@ -1,9 +1,7 @@
 print("Как тебя зовут?")
-name = input(martin)
-
+name = "Мартин"
 print('привет', name, '!')
-
 print("Из какого ты города?")
-city = input(berlin)
-
+city = "Берлин"
 print('меня зовут', name, '.', city, '-мой город!')
+
