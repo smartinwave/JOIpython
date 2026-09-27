@@ -4,4 +4,4 @@ name = input()
 print('Привет,', name + '!')
 
 sep = input()
-print(input(), input(), input(), sep=sep)
+print(input(), input(), input(), sep=sep) 
